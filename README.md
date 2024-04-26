@@ -1,5 +1,5 @@
 <div id="header" align="center">
-  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
+  <a href="https://app.daily.dev/borgrancher"><img src="https://api.daily.dev/devcards/v2/Mphzlws9zyah7AHw0MOrF.png?r=730&type=wide" width="652" alt="Shaun McDonald's Dev Card"/></a>
 </div>
 
 <div id="badges" align="center">
