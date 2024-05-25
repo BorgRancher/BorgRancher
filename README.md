@@ -17,15 +17,13 @@
 
 
 ### About Me
+Hey there!  I'm @BorgRancher, a driven mobile developer (iOS & Android) on a quest to make the ordinary extraordinary with tech.
 
-- 👋 Hi, I’m @BorgRancher, an ageing rebel with what he imagines approaches a clue. (More like a babbling, bug-eyed druid type who occassionally makes sense, and writes decent enough code on the daily.) Pleased to meet you. 
+I'm particularly fascinated by the possibilities of AI and Computer Vision, especially their positive, non-dystopian applications!  Think AI that makes your life easier, not creepier.
 
-- 👀 I’m interested in mobile applications (IOS and Android), IOT and AI with a special fascination for Computer Vision and it's many non-dystopian applications. AI is scarily good at very narrow things, my job is to train, select and combine enough narrow skills to make the average human's eyes go wide with wonder.
+My superpower?  Helping humans and tech become the ultimate dream team.  I'm a veteran developer (Java, Kotlin, C++, Objective-C, Swift) who loves streamlining multi-platform development.  Remember that bewildered feeling when you first started?  I'm here to make that a thing of the past!
 
-- 🌱 I’m currently learning Jetpack Compose, and actively avoiding React Native - I'm a native Android (Java, Kotlin, C++) / IOS (Objective-C/Swift) dev (that's my most recent pair of hats), and I've never liked typing, so I will contribute whatever I can to make multi-platform development a smooth and simple transition for people who might feel as bewildered as I was at first.
+Beyond the code, I'm all about using tech to solve real problems for real people.  Everyone deserves the benefits of a tech-powered world!  Let's collaborate and make a positive impact together.  
 
-- 💞️ I’m looking to collaborate on anything that uses tech to solve real-world problems for ordinary people, no one should live below the API.
-  
-- 📫 Pop a mail to borgrancher@icloud.com. Let's talk!
+**#NoOneBelowTheAPI**
 
-[![@borgrancher's Holopin board](https://holopin.io/api/user/board?user=borgrancher)](https://holopin.io/@borgrancher)
