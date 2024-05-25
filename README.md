@@ -2,11 +2,19 @@
 <a href="https://app.daily.dev/borgrancher"><img src="https://api.daily.dev/devcards/v2/Mphzlws9zyah7AHw0MOrF.png?type=wide&r=5o6" width="652" alt="Shaun McDonald's Dev Card"/></a>
 </div>
 
-<div id="badges" align="center">
+<div id="social" align="center">
   <a href="https://www.linkedin.com/in/shaun-mcdonald-vrza/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
 </div>
+
+## Tech Stack
+<div align="center">  
+  <a href="https://skillicons.dev">
+  <img src="https://skillicons.dev/icons?i=linux,ubuntu,apple,windows,py,androidstudio,kotlin,java,cpp,flutter,dart,swift,dotnet,postgresql,mysql,sqlite,mongodb,raspberrypi&perline=9" />
+  </a>
+</div>
+
 
 ### About Me
 
