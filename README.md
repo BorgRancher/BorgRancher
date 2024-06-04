@@ -17,7 +17,7 @@
 
 
 ### About Me
-Hey there!  I'm @BorgRancher, a driven mobile developer (iOS & Android) on a quest to make the ordinary extraordinary with tech.
+Hey there!  I'm @BorgRancher, a driven mobile developer (iOS & Android) on a quest to make the extraordinary ordinary with tech. Miracles are performed before breakfast, the utterly impossible might take a little longer.
 
 I'm particularly fascinated by the possibilities of AI and Computer Vision, especially their positive, non-dystopian applications!  Think AI that makes your life easier, not creepier.
 
